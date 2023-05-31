@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "682167927688",
+    "project_id": "prubabd-434d1",
+    "storage_bucket": "prubabd-434d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682167927688:android:da4d844cc8f8084a7ef03d",
+        "android_client_info": {
+          "package_name": "com.example.firebaseloginkotlin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArkgYZrlf8liE0wf-FenpDze5S4WCAF5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
